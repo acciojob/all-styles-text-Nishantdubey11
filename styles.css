@@ -4,12 +4,13 @@ div{
 	width: 200px;
 	background-color: rgb(128,0,128);
 	border-left: 5px solid green;
-	
 	padding: 10px;
 /* 	color: white;
 	text-decoration: underline; */
 }
 
-h1{
+#heading{
+	color: white;
+	text-size: 20px;
 	
 }
